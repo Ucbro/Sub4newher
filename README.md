@@ -2,7 +2,7 @@
 
 Click the button below to deploy on Heroku!
 
-[![Deploy to heroku](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Ucbro/Sub4newher)
+[![Deploy to heroku](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Ucbro/Sub4newher/tree/koyeb)
 
 ## Deploy in your VPS
 ````bash
@@ -19,7 +19,7 @@ bash start
 
 The fastest way to deploy the application is to click the **Deploy to Koyeb** button below.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Ucbro/Sub4newher&branch=develop&name=repo-4-buttons)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Ucbro/Sub4newher/tree/koyeb&branch=develop&name=repo-4-buttons)
 
 <details>
 <summary><h3><b>🔗 Extra Custom & List Vars</b></h3></summary>
@@ -29,7 +29,6 @@ The fastest way to deploy the application is to click the **Deploy to Koyeb** bu
 * `API_HASH` Dapatkan API HASH di web my.telegram.org.
 * `API_ID` Dapatkan APP ID di web my.telegram.org
 * `TG_BOT_TOKEN` Dapatkan dari t.me/BotFather
-* `OWNER` Masukan Username Telegram untuk Owner BOT
 * `CHANNEL_ID` Masukan ID Channel Untuk [Channel Database] contoh:- -100xxxxxxxx
 * `ADMINS` Masukan User ID untuk mendapatkan hak Admin di BOT
 * `START_MESSAGE` Opsional: Pesan /start memulai awalan ke bot, Gunakan <a href='https://github.com/IndomieGorengSatu/repo-4-buttons/blob/main/README.md#start_message'>format</a> parsemode HTML 
